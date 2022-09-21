@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'MethHeadz';
+const COLLECTION_NAME = 'Meth Headz';
 let editions = [];
 let dots = 1;
 
